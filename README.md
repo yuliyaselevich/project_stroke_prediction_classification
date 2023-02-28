@@ -8,6 +8,23 @@ a stroke has key importance.
 The goal of this project is to attept to answer the following questions:
 1. What health issues or lifestyle traits make patients more or less likely to have a stroke?   
 2. Can we use specific features to make a reliable prediction of a stroke?
-
+### Methods Used
+* Descriptive and inferential statistics
+* EDA
+* Data Visualization
+* Predictive Modeling
+* Machine Learning
+### Technologies
+* Python
+* Pandas
+* Seaborn
+* Matplotlib
+* Scipy.stats
+* Numpy
+* Scikit-learn
+* XGBoost Classifier
+## Project Description
+## Featured Notebooks/Reports
+## Contact
 
 
