@@ -25,6 +25,7 @@ The goal of this project is to attept to answer the following questions:
 * XGBoost Classifier
 ## Project Description
 ## Featured Notebooks/Reports
+A [link](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_DataWrangling.ipynb).
 ## Contact
 
 
