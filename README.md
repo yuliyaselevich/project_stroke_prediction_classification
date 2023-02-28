@@ -25,12 +25,12 @@ The goal of this project is to attept to answer the following questions:
 * XGBoost Classifier
 ## Project Description
 ## Featured Notebooks/Reports
-A ['Data Wrangling'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_DataWrangling.ipynb).
-A ['Exploratory Data Analysis'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_EDA.ipynb).
-A ['Preprocessing'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_Preprocessing.ipynb).
-A ['Modeling'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_Modeling.ipynb).
-A ['Project Report'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Docs/Project_Report.pdf).
+* ['Data Wrangling'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_DataWrangling.ipynb).
+* ['Exploratory Data Analysis'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_EDA.ipynb).
+* ['Preprocessing'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_Preprocessing.ipynb).
+* ['Modeling'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_Modeling.ipynb).
+* ['Project Report'](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Docs/Project_Report.pdf).
 ## Contact
-A ['LinkedIn'](https://www.linkedin.com/in/yuliyaselevich/).
+* ['LinkedIn'](https://www.linkedin.com/in/yuliyaselevich/).
 
 
