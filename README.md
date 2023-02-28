@@ -4,3 +4,10 @@ blocked by a clot or ruptures. When that happens, part of  the brain cannot get 
 oxygen it needs, so it and brain cells die.  According to the American Stroke Association, it is the 
 No. 5 cause of death and a leading cause of disability in the United States. Therefore prediction of 
 a stroke has key importance.
+## Project Objective
+The goal of this project is to attept to answer the following questions:
+1. What health issues or lifestyle traits make patients more or less likely to have a stroke?   
+2. Can we use specific features to make a reliable prediction of a stroke?
+
+
+
