@@ -23,7 +23,6 @@ The goal of this project is to attept to answer the following questions:
 * Numpy
 * Scikit-learn
 * XGBoost Classifier
-## Project Description
 ## Featured Notebooks/Reports
 * [Data Wrangling](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_DataWrangling.ipynb)
 * [Exploratory Data Analysis](https://github.com/yuliyaselevich/Capstone-2_StrokePrediction/blob/main/Notebooks/Capstone2_EDA.ipynb)
