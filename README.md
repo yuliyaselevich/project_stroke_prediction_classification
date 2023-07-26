@@ -1,13 +1,13 @@
 # Stroke Prediction
 A stroke occurs when a blood vessel that carries oxygen and nutrients to the brain is either 
-blocked by a clot or ruptures. When that happens, part of  the brain cannot get the blood  and thus
-oxygen it needs, so it and brain cells die.  According to the American Stroke Association, it is the 
+blocked by a clot or ruptures. When that happens, part of  the brain cannot get the blood, and thus
+oxygen it needs, so it and its brain cells die.  According to the American Stroke Association, it is the 
 No. 5 cause of death and a leading cause of disability in the United States. Therefore prediction of 
 a stroke has key importance.
 ## Project Objective
-The goal of this project is to attept to answer the following questions:
+The goal of this project is to attempt to answer the following questions:
 1. What health issues or lifestyle traits make patients more or less likely to have a stroke?   
-2. Can we use specific features to make a reliable prediction of a stroke?
+2. Can we use specific features to make a reliable stroke prediction?
 ### Methods Used
 * Descriptive and inferential statistics
 * EDA
